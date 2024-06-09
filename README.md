@@ -1,15 +1,3 @@
-# Tensorflow example code for the ACM/IEEE Intelligent Embedded System Design Contest at ICMC 2024
-
-## What's in this repository?
-
-This repository contains a simple example to illustrate how to train the model with tensorflow and evaluate the comprehensive performances in terms of detection performance, flash occupation and latency. You can try it by running the following commands on the given training dataset. 
-
-For this example, we implemented a convolutional neural network (CNN). You can use a different classifier and software for your implementation. 
-
-This code uses four main scripts, described below, to train and test your model for the given dataset.
-
-## How do I run these scripts?
-
 You can run this classifier code by installing the requirements
 
     pip install requirements.txt
